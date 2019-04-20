@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Tank
+  - Soldier
+  - AirPlane1
+  - AirPlane2
+  - EnemySoldier
+  - EnemyTank
+  - Base
+  - Turret
+  - Music
+  - Audio
+  - e_Creater
+  - p_Creater
+  - g_Manager
+  - m_Player
+  - Limit
+  - b_UI
+  - pa_Manager
+  - ef_Manager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - EnemySoldier
+  - Player
+  - Bomb
+  - e_Limit
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
